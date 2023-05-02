@@ -1,1 +1,5 @@
-
+.card-img-top {
+    height: 120px;
+    object-fit: cover;
+  }
+  
